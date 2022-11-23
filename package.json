@@ -1,0 +1,14 @@
+{
+  "name": "realestatewebsite",
+  "version": "1.0.0",
+  "description": "Proyecto DAW - Real State",
+  "main": "index.js",
+  "scripts": {
+    "compilar:sass": "sass --watch src/scss:build/css"
+  },
+  "author": "Christopher Quiroz Mendivel",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
+}
